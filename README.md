@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=500&lines=Hello+there!" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&lines=Hello+there!" />
     <h3 align="center">A passionate software developer from Germany</h3>
 </div>
 
